@@ -6,3 +6,6 @@ Pau Dones
 leonard cohen
 
 
+"Disco 1 DanielLM" 
+"Disco 2 DanielLM" 
+"Disco 3 DanielLM" 
