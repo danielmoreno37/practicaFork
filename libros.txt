@@ -5,3 +5,6 @@ El nombre de la rosa
 1984
 Cien años de soledad
 
+"Libro 1 DanielLM" 
+"Libro 2 DanielLM" 
+"Libro 3 DanielLM" 
